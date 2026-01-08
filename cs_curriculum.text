@@ -1,0 +1,959 @@
+
+------------------Semester : 1 -----------------------
+
+Subject name : Fundamentals of Computer Programming
+Course code : CS-110
+Credit hours : 3+1
+
+Subject name : Calculus & Analytical Geometry
+Course code : MATH-101
+Credit hours : 3+0
+
+Subject name : Discrete Mathematics
+Course code : MATH-161
+Credit hours : 3+0
+
+Subject name : Functional English
+Course code : HU-114
+Credit hours : 3+0
+
+Subject name : Application of Information & Communication Technologies
+Course code : CS-108
+Credit hours : 2+1
+
+------------------Semester : 2 -----------------------
+
+Subject name : Database Systems
+Course code : CS-220
+Credit hours : 3+1
+
+Subject name : Object Oriented Programming
+Course code : CS-212
+Credit hours : 3+1
+
+Subject name : Linear Algebra
+Course code : MATH-222
+Credit hours : 3+0
+
+Subject name : Multivariable Calculus
+Course code : MATH-234
+Credit hours : 3+0
+
+Subject name : Digital Logic Design
+Course code : EE-223
+Credit hours : 2+1
+
+------------------Semester : 3 -----------------------
+
+Subject name : Probability & Statistics
+Course code : MATH-361
+Credit hours : 3+0
+
+Subject name : Information Security
+Course code : CS-353
+Credit hours : 2+1
+
+Subject name : Islamic Studies
+Course code : HU-101
+Credit hours : 2+0
+
+Subject name : Data Structures & Algorithms
+Course code : CS-250
+Credit hours : 3+1
+
+Subject name : Artificial Intelligence
+Course code : CS-272
+Credit hours : 2+1
+
+Subject name : Computer Networks
+Course code : EE-347
+Credit hours : 2+1
+
+------------------Semester : 4 -----------------------
+
+Subject name : Theory of Automata and Formal Languages
+Course code : CS-352
+Credit hours : 3+0
+
+Subject name : Applied Physics
+Course code : PHY-102
+Credit hours : 2+1
+
+Subject name : Expository Writing
+Course code : ENGL-104
+Credit hours : 3+0
+
+Subject name : Advanced Database Management Systems
+Course code : CS-236
+Credit hours : 2+1
+
+Subject name : Computer Organization and Assembly Language
+Course code : CS-234
+Credit hours : 2+1
+
+Subject name : CS Elective-I
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 5 -----------------------
+
+Subject name : Introduction To Management
+Course code : MGT-164
+Credit hours : 2+0
+
+Subject name : Computer Architecture
+Course code : CS-339
+Credit hours : 2+1
+
+Subject name : Operating Systems
+Course code : CS-333
+Credit hours : 2+1
+
+Subject name : HCI & Computer Graphics
+Course code : CS-337
+Credit hours : 2+1
+
+Subject name : CS Elective-II
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-III
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 6 -----------------------
+
+Subject name : Software Engineering
+Course code : SE-200
+Credit hours : 3+0
+
+Subject name : Compiler Construction
+Course code : CS-325
+Credit hours : 2+1
+
+Subject name : Parallel and Distributed Computing
+Course code : CS-347
+Credit hours : 2+1
+
+Subject name : CS Elective-IV
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-V
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-VI
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 7 -----------------------
+
+Subject name : Design & Analysis of Algorithms
+Course code : CS-251
+Credit hours : 3+0
+
+Subject name : Entrepreneurship
+Course code : MGT-271
+Credit hours : 2+0
+
+Subject name : Technical & Business Writing
+Course code : HU-202
+Credit hours : 3+0
+
+Subject name : Final Year Project-I
+Course code : CS-498
+Credit hours : 0+2
+
+Subject name : CS Elective-VII
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 8 -----------------------
+
+Subject name : Civic and Community Engagement
+Course code : CCE-401
+Credit hours : 1+1
+
+Subject name : Psychology
+Course code : HU-102
+Credit hours : 3+0
+
+Subject name : Ideology and Constitution of Pakistan.
+Course code : HU-127
+Credit hours : 2+0
+
+Subject name : Professional Ethics
+Course code : HU-222
+Credit hours : 2+0
+
+Subject name : Final Year Project II
+Course code : CS-499
+Credit hours : 0+4
+
+Subject name : Total CHs
+Course code : 
+Credit hours : 8+5=13
+
+------------------Semester : 1 -----------------------
+
+Subject name : Fundamentals of Computer Programming
+Course code : CS-110
+Credit hours : 3+1
+
+Subject name : Calculus & Analytical Geometry
+Course code : MATH-101
+Credit hours : 3+0
+
+Subject name : Discrete Mathematics
+Course code : MATH-161
+Credit hours : 3+0
+
+Subject name : Functional English
+Course code : HU-114
+Credit hours : 3+0
+
+Subject name : Application of Information & Communication Technologies
+Course code : CS-108
+Credit hours : 2+1
+
+------------------Semester : 2 -----------------------
+
+Subject name : Database Systems
+Course code : CS-220
+Credit hours : 3+1
+
+Subject name : Object Oriented Programming
+Course code : CS-212
+Credit hours : 3+1
+
+Subject name : Linear Algebra
+Course code : MATH-222
+Credit hours : 3+0
+
+Subject name : Multivariable Calculus
+Course code : MATH-234
+Credit hours : 3+0
+
+Subject name : Digital Logic Design
+Course code : EE-223
+Credit hours : 2+1
+
+------------------Semester : 3 -----------------------
+
+Subject name : Probability & Statistics
+Course code : MATH-361
+Credit hours : 3+0
+
+Subject name : Information Security
+Course code : CS-353
+Credit hours : 2+1
+
+Subject name : Islamic Studies
+Course code : HU-101
+Credit hours : 2+0
+
+Subject name : Data Structures & Algorithms
+Course code : CS-250
+Credit hours : 3+1
+
+Subject name : Artificial Intelligence
+Course code : CS-272
+Credit hours : 2+1
+
+Subject name : Computer Networks
+Course code : EE-347
+Credit hours : 2+1
+
+------------------Semester : 4 -----------------------
+
+Subject name : Theory of Automata and Formal Languages
+Course code : CS-352
+Credit hours : 3+0
+
+Subject name : Applied Physics
+Course code : PHY-102
+Credit hours : 2+1
+
+Subject name : Expository Writing
+Course code : ENGL-104
+Credit hours : 3+0
+
+Subject name : Advanced Database Management Systems
+Course code : CS-236
+Credit hours : 2+1
+
+Subject name : Computer Organization and Assembly Language
+Course code : CS-234
+Credit hours : 2+1
+
+Subject name : CS Elective-I
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 5 -----------------------
+
+Subject name : Introduction To Management
+Course code : MGT-164
+Credit hours : 2+0
+
+Subject name : Computer Architecture
+Course code : CS-339
+Credit hours : 2+1
+
+Subject name : Operating Systems
+Course code : CS-333
+Credit hours : 2+1
+
+Subject name : HCI & Computer Graphics
+Course code : CS-337
+Credit hours : 2+1
+
+Subject name : CS Elective-II
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-III
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 6 -----------------------
+
+Subject name : Software Engineering
+Course code : SE-200
+Credit hours : 3+0
+
+Subject name : Compiler Construction
+Course code : CS-325
+Credit hours : 2+1
+
+Subject name : Parallel and Distributed Computing
+Course code : CS-347
+Credit hours : 2+1
+
+Subject name : CS Elective-IV
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-V
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-VI
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 7 -----------------------
+
+Subject name : Design & Analysis of Algorithms
+Course code : CS-251
+Credit hours : 3+0
+
+Subject name : Entrepreneurship
+Course code : MGT-271
+Credit hours : 2+0
+
+Subject name : Technical & Business Writing
+Course code : HU-202
+Credit hours : 3+0
+
+Subject name : Final Year Project-I
+Course code : CS-498
+Credit hours : 0+2
+
+Subject name : CS Elective-VII
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 8 -----------------------
+
+Subject name : Civic and Community Engagement
+Course code : CCE-401
+Credit hours : 1+1
+
+Subject name : Psychology
+Course code : HU-102
+Credit hours : 3+0
+
+Subject name : Ideology and Constitution of Pakistan.
+Course code : HU-127
+Credit hours : 2+0
+
+Subject name : Professional Ethics
+Course code : HU-222
+Credit hours : 2+0
+
+Subject name : Final Year Project II
+Course code : CS-499
+Credit hours : 0+4
+
+Subject name : Total CHs
+Course code : 
+Credit hours : 8+5=13
+
+------------------Semester : 1 -----------------------
+
+Subject name : Fundamentals of Computer Programming
+Course code : CS-110
+Credit hours : 3+1
+
+Subject name : Calculus & Analytical Geometry
+Course code : MATH-101
+Credit hours : 3+0
+
+Subject name : Discrete Mathematics
+Course code : MATH-161
+Credit hours : 3+0
+
+Subject name : Functional English
+Course code : HU-114
+Credit hours : 3+0
+
+Subject name : Application of Information & Communication Technologies
+Course code : CS-108
+Credit hours : 2+1
+
+------------------Semester : 2 -----------------------
+
+Subject name : Database Systems
+Course code : CS-220
+Credit hours : 3+1
+
+Subject name : Object Oriented Programming
+Course code : CS-212
+Credit hours : 3+1
+
+Subject name : Linear Algebra
+Course code : MATH-222
+Credit hours : 3+0
+
+Subject name : Multivariable Calculus
+Course code : MATH-234
+Credit hours : 3+0
+
+Subject name : Digital Logic Design
+Course code : EE-223
+Credit hours : 2+1
+
+------------------Semester : 3 -----------------------
+
+Subject name : Probability & Statistics
+Course code : MATH-361
+Credit hours : 3+0
+
+Subject name : Information Security
+Course code : CS-353
+Credit hours : 2+1
+
+Subject name : Islamic Studies
+Course code : HU-101
+Credit hours : 2+0
+
+Subject name : Data Structures & Algorithms
+Course code : CS-250
+Credit hours : 3+1
+
+Subject name : Artificial Intelligence
+Course code : CS-272
+Credit hours : 2+1
+
+Subject name : Computer Networks
+Course code : EE-347
+Credit hours : 2+1
+
+------------------Semester : 4 -----------------------
+
+Subject name : Theory of Automata and Formal Languages
+Course code : CS-352
+Credit hours : 3+0
+
+Subject name : Applied Physics
+Course code : PHY-102
+Credit hours : 2+1
+
+Subject name : Expository Writing
+Course code : ENGL-104
+Credit hours : 3+0
+
+Subject name : Advanced Database Management Systems
+Course code : CS-236
+Credit hours : 2+1
+
+Subject name : Computer Organization and Assembly Language
+Course code : CS-234
+Credit hours : 2+1
+
+Subject name : CS Elective-I
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 5 -----------------------
+
+Subject name : Introduction To Management
+Course code : MGT-164
+Credit hours : 2+0
+
+Subject name : Computer Architecture
+Course code : CS-339
+Credit hours : 2+1
+
+Subject name : Operating Systems
+Course code : CS-333
+Credit hours : 2+1
+
+Subject name : HCI & Computer Graphics
+Course code : CS-337
+Credit hours : 2+1
+
+Subject name : CS Elective-II
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-III
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 6 -----------------------
+
+Subject name : Software Engineering
+Course code : SE-200
+Credit hours : 3+0
+
+Subject name : Compiler Construction
+Course code : CS-325
+Credit hours : 2+1
+
+Subject name : Parallel and Distributed Computing
+Course code : CS-347
+Credit hours : 2+1
+
+Subject name : CS Elective-IV
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-V
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-VI
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 7 -----------------------
+
+Subject name : Design & Analysis of Algorithms
+Course code : CS-251
+Credit hours : 3+0
+
+Subject name : Entrepreneurship
+Course code : MGT-271
+Credit hours : 2+0
+
+Subject name : Technical & Business Writing
+Course code : HU-202
+Credit hours : 3+0
+
+Subject name : Final Year Project-I
+Course code : CS-498
+Credit hours : 0+2
+
+Subject name : CS Elective-VII
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 8 -----------------------
+
+Subject name : Civic and Community Engagement
+Course code : CCE-401
+Credit hours : 1+1
+
+Subject name : Psychology
+Course code : HU-102
+Credit hours : 3+0
+
+Subject name : Ideology and Constitution of Pakistan.
+Course code : HU-127
+Credit hours : 2+0
+
+Subject name : Professional Ethics
+Course code : HU-222
+Credit hours : 2+0
+
+Subject name : Final Year Project II
+Course code : CS-499
+Credit hours : 0+4
+
+Subject name : Total CHs
+Course code : 
+Credit hours : 8+5=13
+
+------------------Semester : 1 -----------------------
+
+Subject name : Fundamentals of Computer Programming
+Course code : CS-110
+Credit hours : 3+1
+
+Subject name : Calculus & Analytical Geometry
+Course code : MATH-101
+Credit hours : 3+0
+
+Subject name : Discrete Mathematics
+Course code : MATH-161
+Credit hours : 3+0
+
+Subject name : Functional English
+Course code : HU-114
+Credit hours : 3+0
+
+Subject name : Application of Information & Communication Technologies
+Course code : CS-108
+Credit hours : 2+1
+
+------------------Semester : 2 -----------------------
+
+Subject name : Database Systems
+Course code : CS-220
+Credit hours : 3+1
+
+Subject name : Object Oriented Programming
+Course code : CS-212
+Credit hours : 3+1
+
+Subject name : Linear Algebra
+Course code : MATH-222
+Credit hours : 3+0
+
+Subject name : Multivariable Calculus
+Course code : MATH-234
+Credit hours : 3+0
+
+Subject name : Digital Logic Design
+Course code : EE-223
+Credit hours : 2+1
+
+------------------Semester : 3 -----------------------
+
+Subject name : Probability & Statistics
+Course code : MATH-361
+Credit hours : 3+0
+
+Subject name : Information Security
+Course code : CS-353
+Credit hours : 2+1
+
+Subject name : Islamic Studies
+Course code : HU-101
+Credit hours : 2+0
+
+Subject name : Data Structures & Algorithms
+Course code : CS-250
+Credit hours : 3+1
+
+Subject name : Artificial Intelligence
+Course code : CS-272
+Credit hours : 2+1
+
+Subject name : Computer Networks
+Course code : EE-347
+Credit hours : 2+1
+
+------------------Semester : 4 -----------------------
+
+Subject name : Theory of Automata and Formal Languages
+Course code : CS-352
+Credit hours : 3+0
+
+Subject name : Applied Physics
+Course code : PHY-102
+Credit hours : 2+1
+
+Subject name : Expository Writing
+Course code : ENGL-104
+Credit hours : 3+0
+
+Subject name : Advanced Database Management Systems
+Course code : CS-236
+Credit hours : 2+1
+
+Subject name : Computer Organization and Assembly Language
+Course code : CS-234
+Credit hours : 2+1
+
+Subject name : CS Elective-I
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 5 -----------------------
+
+Subject name : Introduction To Management
+Course code : MGT-164
+Credit hours : 2+0
+
+Subject name : Computer Architecture
+Course code : CS-339
+Credit hours : 2+1
+
+Subject name : Operating Systems
+Course code : CS-333
+Credit hours : 2+1
+
+Subject name : HCI & Computer Graphics
+Course code : CS-337
+Credit hours : 2+1
+
+Subject name : CS Elective-II
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-III
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 6 -----------------------
+
+Subject name : Software Engineering
+Course code : SE-200
+Credit hours : 3+0
+
+Subject name : Compiler Construction
+Course code : CS-325
+Credit hours : 2+1
+
+Subject name : Parallel and Distributed Computing
+Course code : CS-347
+Credit hours : 2+1
+
+Subject name : CS Elective-IV
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-V
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-VI
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 7 -----------------------
+
+Subject name : Design & Analysis of Algorithms
+Course code : CS-251
+Credit hours : 3+0
+
+Subject name : Entrepreneurship
+Course code : MGT-271
+Credit hours : 2+0
+
+Subject name : Technical & Business Writing
+Course code : HU-202
+Credit hours : 3+0
+
+Subject name : Final Year Project-I
+Course code : CS-498
+Credit hours : 0+2
+
+Subject name : CS Elective-VII
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 8 -----------------------
+
+Subject name : Civic and Community Engagement
+Course code : CCE-401
+Credit hours : 1+1
+
+Subject name : Psychology
+Course code : HU-102
+Credit hours : 3+0
+
+Subject name : Ideology and Constitution of Pakistan.
+Course code : HU-127
+Credit hours : 2+0
+
+Subject name : Professional Ethics
+Course code : HU-222
+Credit hours : 2+0
+
+Subject name : Final Year Project II
+Course code : CS-499
+Credit hours : 0+4
+
+Subject name : Total CHs
+Course code : 
+Credit hours : 8+5=13
+
+------------------Semester : 1 -----------------------
+
+Subject name : Fundamentals of Computer Programming
+Course code : CS-110
+Credit hours : 3+1
+
+Subject name : Calculus & Analytical Geometry
+Course code : MATH-101
+Credit hours : 3+0
+
+Subject name : Discrete Mathematics
+Course code : MATH-161
+Credit hours : 3+0
+
+Subject name : Functional English
+Course code : HU-114
+Credit hours : 3+0
+
+Subject name : Application of Information & Communication Technologies
+Course code : CS-108
+Credit hours : 2+1
+
+------------------Semester : 2 -----------------------
+
+Subject name : Database Systems
+Course code : CS-220
+Credit hours : 3+1
+
+Subject name : Object Oriented Programming
+Course code : CS-212
+Credit hours : 3+1
+
+Subject name : Linear Algebra
+Course code : MATH-222
+Credit hours : 3+0
+
+Subject name : Multivariable Calculus
+Course code : MATH-234
+Credit hours : 3+0
+
+Subject name : Digital Logic Design
+Course code : EE-223
+Credit hours : 2+1
+
+------------------Semester : 3 -----------------------
+
+Subject name : Probability & Statistics
+Course code : MATH-361
+Credit hours : 3+0
+
+Subject name : Information Security
+Course code : CS-353
+Credit hours : 2+1
+
+Subject name : Islamic Studies
+Course code : HU-101
+Credit hours : 2+0
+
+Subject name : Data Structures & Algorithms
+Course code : CS-250
+Credit hours : 3+1
+
+Subject name : Artificial Intelligence
+Course code : CS-272
+Credit hours : 2+1
+
+Subject name : Computer Networks
+Course code : EE-347
+Credit hours : 2+1
+
+------------------Semester : 4 -----------------------
+
+Subject name : Theory of Automata and Formal Languages
+Course code : CS-352
+Credit hours : 3+0
+
+Subject name : Applied Physics
+Course code : PHY-102
+Credit hours : 2+1
+
+Subject name : Expository Writing
+Course code : ENGL-104
+Credit hours : 3+0
+
+Subject name : Advanced Database Management Systems
+Course code : CS-236
+Credit hours : 2+1
+
+Subject name : Computer Organization and Assembly Language
+Course code : CS-234
+Credit hours : 2+1
+
+Subject name : CS Elective-I
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 5 -----------------------
+
+Subject name : Introduction To Management
+Course code : MGT-164
+Credit hours : 2+0
+
+Subject name : Computer Architecture
+Course code : CS-339
+Credit hours : 2+1
+
+Subject name : Operating Systems
+Course code : CS-333
+Credit hours : 2+1
+
+Subject name : HCI & Computer Graphics
+Course code : CS-337
+Credit hours : 2+1
+
+Subject name : CS Elective-II
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-III
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 6 -----------------------
+
+Subject name : Software Engineering
+Course code : SE-200
+Credit hours : 3+0
+
+Subject name : Compiler Construction
+Course code : CS-325
+Credit hours : 2+1
+
+Subject name : Parallel and Distributed Computing
+Course code : CS-347
+Credit hours : 2+1
+
+Subject name : CS Elective-IV
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-V
+Course code : CS-XXX
+Credit hours : 2+1
+
+Subject name : CS Elective-VI
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 7 -----------------------
+
+Subject name : Design & Analysis of Algorithms
+Course code : CS-251
+Credit hours : 3+0
+
+Subject name : Entrepreneurship
+Course code : MGT-271
+Credit hours : 2+0
+
+Subject name : Technical & Business Writing
+Course code : HU-202
+Credit hours : 3+0
+
+Subject name : Final Year Project-I
+Course code : CS-498
+Credit hours : 0+2
+
+Subject name : CS Elective-VII
+Course code : CS-XXX
+Credit hours : 2+1
+
+------------------Semester : 8 -----------------------
+
+Subject name : Civic and Community Engagement
+Course code : CCE-401
